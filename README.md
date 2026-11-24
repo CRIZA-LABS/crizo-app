@@ -104,7 +104,7 @@ Not yet. Download it from [crizo.criza.dev](https://crizo.criza.dev/download), t
 
 **Who makes Crizo?**
 Crizo is designed and built by [AbrarAli S.](https://github.com/AbraraliS) and published under
-[Criza Labs](https://criza.dev) in Gujarat, India. Questions: [info@criza.dev](mailto:info@criza.dev).
+[Criza Labs](https://criza.dev) in Gujarat, India. Questions: [crizo@criza.dev](mailto:crizo@criza.dev).
 
 ## Links
 
