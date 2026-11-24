@@ -103,6 +103,7 @@ Criza Labs builds Android apps, websites and AI automation for businesses. To di
 ## Links
 
 - Website: [crizo.criza.dev](https://crizo.criza.dev)
+- On criza.dev: [Crizo for Android](https://criza.dev/products/crizo-app) and the [case study](https://criza.dev/portfolio/crizo-app)
 - Machine readable summary: [crizo.criza.dev/llms.txt](https://crizo.criza.dev/llms.txt)
 - Also from Criza Labs: [CrizaVoise](https://voise.criza.dev) · [CrizaTools](https://tools.criza.dev) · [Crizo, the site guide](https://github.com/CRIZA-LABS/crizo)
 
