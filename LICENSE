@@ -1,0 +1,49 @@
+Crizo for Android
+Copyright (c) 2026 Criza Labs. All rights reserved.
+
+Crizo is proprietary software. Its source code is private and is not published in this
+repository. This repository contains the app's public information page, images and the
+official installable builds (APK files) in Releases.
+
+1. PERMITTED USE
+   You may download the official APK files from this repository's Releases or from
+   https://crizo.criza.dev, and install and use Crizo on your own devices for your own
+   personal use, free of charge, under the Terms of Use at https://crizo.criza.dev/terms.
+
+2. RESTRICTIONS
+   Without prior written permission from Criza Labs you may not:
+   a. copy, redistribute, re-upload, mirror, sell, rent or sublicense the APK files, the
+      images or any other part of Crizo, including on other app stores or download sites;
+   b. modify, decompile, disassemble or reverse engineer the app, except where the law
+      expressly allows it despite this restriction;
+   c. use Crizo's name, characters, artwork, screenshots or text in another product or
+      project, or to suggest an endorsement by Criza Labs;
+   d. use any part of Crizo to train, fine-tune, evaluate or prompt any machine-learning
+      or AI system.
+
+3. NO WARRANTY
+   CRIZO IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE, ACCURACY, SECURITY AND NON-INFRINGEMENT. YOU USE IT AT YOUR OWN RISK.
+   CRIZA LABS DOES NOT GUARANTEE THAT CRIZO WILL BE ERROR FREE, UNINTERRUPTED, COMPATIBLE
+   WITH YOUR DEVICE, OR THAT ANY DATA, PAYMENT RECORD OR REMINDER WILL BE CORRECT OR KEPT.
+
+4. NO LIABILITY
+   TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT SHALL CRIZA LABS, ABRARALI S. OR ANY
+   CONTRIBUTOR BE LIABLE FOR ANY CLAIM, LOSS OR DAMAGES OF ANY KIND, INCLUDING LOSS OF DATA,
+   MONEY, PROFITS OR USE, OR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL
+   DAMAGES, ARISING OUT OF OR IN CONNECTION WITH CRIZO OR ITS USE, EVEN IF ADVISED OF THE
+   POSSIBILITY OF SUCH DAMAGES. CRIZA LABS HAS NO OBLIGATION TO PROVIDE SUPPORT, UPDATES
+   OR FIXES. YOU ARE RESPONSIBLE FOR BACKING UP YOUR OWN DATA.
+
+5. THIRD-PARTY COMPONENTS
+   Open-source components inside the app remain under their own licences, listed in the
+   app under Settings, About, Open-source licences. Nothing here limits the rights those
+   licences give you in those components.
+
+6. GENERAL
+   These terms are read together with the Terms of Use at https://crizo.criza.dev/terms
+   and the Privacy Policy at https://crizo.criza.dev/privacy. If any part is found
+   unenforceable, the rest remains in effect. Rights not expressly granted are reserved.
+
+Contact: crizo@criza.dev

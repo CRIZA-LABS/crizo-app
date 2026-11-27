@@ -190,4 +190,4 @@ Criza Labs builds Android apps, websites and AI automation for businesses. See
 
 ---
 
-<sub>© 2026 Criza Labs. Crizo, its name, characters and artwork belong to Criza Labs. All rights reserved. The APK files in Releases are provided for installing the app; redistribution is not permitted without permission.</sub>
+<sub>© 2026 Criza Labs. All rights reserved. Crizo is proprietary software, free to install and use, provided "as is" without any warranty or liability. See [LICENSE](LICENSE) and the [Terms of Use](https://crizo.criza.dev/terms).</sub>
